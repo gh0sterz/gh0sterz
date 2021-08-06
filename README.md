@@ -5,5 +5,5 @@
 
 
 
-![Stats align="left"](https://github-readme-stats.vercel.app/api?username=00ghosterz00&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+![Stats align="left"](https://github-readme-stats.vercel.app/api?username=00ghosterz00&show_icons=true&include_all_commits=true&count_private=true&hide_title=true?theme=tokyonight)
 ![Language stats align="left"](https://github-readme-stats.vercel.app/api/top-langs/?username=00ghosterz00&layout=compact?theme=tokyonight)
