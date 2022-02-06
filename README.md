@@ -1,1 +1,1 @@
-`jebac leszczy`
+`kiedys uzupelnie`
