@@ -1,1 +1,1 @@
-`kiedys uzupelnie`
+`16 years old developer from Poland`
