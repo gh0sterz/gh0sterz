@@ -5,3 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left"> LUA, JS/DISCORD.JS, HTML, CSS</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gh0sterz/count.svg?"  />
+</div>
